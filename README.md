@@ -1,5 +1,4 @@
-        Little Crab
-        ===========
+#  Little Crab
         
 This scenario is part of the book 
 
